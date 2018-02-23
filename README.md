@@ -1,4 +1,4 @@
-# vagalume-composer
+# vagalume-vue
 
 > A Vue.js project
 
